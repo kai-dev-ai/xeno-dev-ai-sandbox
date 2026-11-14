@@ -1,0 +1,16 @@
+issue-owner-demo/package.json
+  h_e90f0321dd544b 1-5
+issue-owner-demo/sum.js
+  h_e90f0321dd544b 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c647ac324419f8dd548fef98a3c5fca7c2251aa6",
+  "prompts": {},
+  "humans": {
+    "h_e90f0321dd544b": {
+      "author": "001005HS <99410048+001005HS@users.noreply.github.com>"
+    }
+  }
+}
